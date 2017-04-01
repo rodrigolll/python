@@ -8,6 +8,6 @@ def moon_weight():
     c = int(sys.stdin.readline())
     for i in range(1,c+1):
         a = a + b
-        a = a * 0.168
+        a = a * 0.165
         print('%s %s' % (i,a))
         
